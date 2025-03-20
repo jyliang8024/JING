@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Liang Jingying</title>
+    <link>http://localhost:1313/jing/pages/</link>
+    <description>Recent content in Pages on Liang Jingying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="http://localhost:1313/jing/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/jing/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/jing/pages/about/</guid>
+      
+      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;M.Sc. in Industrial Logistics Systems, The Hong Kong Polytechnic University, &lt;em&gt;2022-2023&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;B.Eng. in Transportation (Excellent Engineer Class), Chongqing Jiaotong University, &lt;em&gt;2018-2022&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;experiences&#34;&gt;Experiences&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Senior Associate, AI Product Operations in Alibaba, &lt;em&gt;2024 - Present&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Research Associate in Laboratory for Artificial Intelligence in Design (AiDLab), The Hong Kong Polytechnic University, &lt;em&gt;2023 - 2024&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Research Assistant (&lt;em&gt;Part-time&lt;/em&gt;) in Cyber-Physical Systems Laboratory, The Hong Kong Polytechnic University, &lt;em&gt;2022 - 2023&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;honors--awards&#34;&gt;Honors &amp;amp; Awards&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Guangxi Alumni Youth Science and Technology Scholarship (&lt;em&gt;Top 10%&lt;/em&gt;), &lt;em&gt;2021.10&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;The 2&lt;sup&gt;nd&lt;/sup&gt; Award, The 7&lt;sup&gt;th&lt;/sup&gt; International “Internet +” College Innovation and Entrepreneurship Competition, &lt;em&gt;2021.07&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;The 2&lt;sup&gt;nd&lt;/sup&gt; Award, The 5&lt;sup&gt;th&lt;/sup&gt; Intelligent Transportation Innovation and Entrepreneurship Competition, &lt;em&gt;2021.05&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;patents&#34;&gt;Patents&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing Project of Oil Spill Collection Device, &lt;em&gt;CN215252726U&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;An Energy-efficient Truck Platoon Formation Method, &lt;em&gt;Pending&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/jing/pages/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/jing/pages/posts/</guid>
+      
+      <description>&lt;p&gt;(# equal contribution, * corresponding author/project lead)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Generating TRIZ-Inspired Guidelines for Eco-Design using Generative Artificial Intelligence&lt;/strong&gt;&lt;br&gt;
+Lee, C.K.M.*, &lt;strong&gt;Liang, J.Y.&lt;/strong&gt;, Yung, K.L., Keung, K.L.&lt;br&gt;
+Advanced Engineering Informatics, 2024. &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1474034624004944&#34;&gt;[Paper]&lt;/a&gt; &lt;a href=&#34;https://github.com/jyliang8024/EcoInnovate-Assistant&#34;&gt;[Code]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Achieving Eco-Innovative Smart Glass Design with the Integration of Opinion Mining, QFD and TRIZ&lt;/strong&gt;&lt;br&gt;
+Lee, C.K.M., Tsang, Y.P., Chong, W.W., Au, Y.S., &lt;strong&gt;Liang, J.Y&lt;/strong&gt;.&lt;br&gt;
+Scientific Reports, 2024. &lt;a href=&#34;https://www.nature.com/articles/s41598-024-58867-1&#34;&gt;[Paper]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Big Data Analytics for Marketing Strategy&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Liang, J.Y.&lt;/strong&gt;, Jiao, Y.H., Chung, S.Y., Lee, C.K.M.&lt;br&gt;
+DesForm, 2023. &lt;a href=&#34;https://research.polyu.edu.hk/en/publications/big-data-analytics-for-marketing-strategy&#34;&gt;[Paper]&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
