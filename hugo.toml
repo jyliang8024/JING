@@ -118,6 +118,11 @@ theme = "hugo-blog-awesome"
 [params.browserconfig]
   TileColor = "#2d89ef" # default windows 10 blue tile color
 
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
+    maxAge = "168h"
+
 [[params.socialIcons]]
   name = "email"
   url = "mailto:jingying.liang@outlook.com"
