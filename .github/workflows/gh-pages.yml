@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://jyliang8024.github.io/JING/" \  
+            --baseURL "https://jyliang8024.github.io/JING/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
 
       - name: Save Hugo Cache
